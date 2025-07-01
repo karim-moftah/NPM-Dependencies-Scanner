@@ -1,1 +1,1 @@
-# NPM-Dependencies-Checker
+# NPM-Dependencies-Scanner
