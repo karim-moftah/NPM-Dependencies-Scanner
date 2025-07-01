@@ -46,4 +46,3 @@ python3 main.py --dir-path ./project --delay 1.0
 ```
 
 - Default delay is `0.5` seconds.
-- Increase it if you're checking a large number of dependencies or encounter errors.
